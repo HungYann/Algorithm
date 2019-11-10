@@ -1,0 +1,5 @@
+### 编程代码
+
+
+>**二分查找**
+注意：适用于有序数组；在Java数组中，相应类库提供调用.Arrays.BinarySearch(Array,fromIndex,endIndex,keyValue);

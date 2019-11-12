@@ -31,3 +31,7 @@
 
 ### 编程之美
 ![](https://tva1.sinaimg.cn/large/006y8mN6gy1g8tvyxczecj30j00o27ow.jpg)
+
+
+## 视频:
+[数据结构与算法基础](https://ke.qq.com/course/342067?taid=2656832409909299)

@@ -1,5 +1,10 @@
 # Introduction
 
+
+
+
+
+	
 ## 1.算法结构
 
 
@@ -67,6 +72,22 @@
 #### 1.2.12 Strings
 
 
+## 已解决问题
+
+
+
+|#|Title|
+|---|---|
+| 1|Two Sum |
+|7|Reverse Integer |
+|9|Palindrome Number|
+|13|Roman to Integer|
+|14|Longest Common Prefix|
+|27|Remove Element |
+|704|Binary Search |
+
+     
+  
 
 
 ## 文章

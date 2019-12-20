@@ -84,7 +84,10 @@
 |13|Roman to Integer|
 |14|Longest Common Prefix|
 |27|Remove Element |
+|35|Search Insert Position|
+|58|Length of Last Word|
 |704|Binary Search |
+
 
      
   
@@ -130,6 +133,8 @@
 
 ## 视频
 [数据结构与算法基础](https://ke.qq.com/course/342067?taid=2656832409909299)
+
+[Why Study Algorithms?](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/courseware/67bd26417f4f47a39e6faf697ce5bf39/eb363aaea3774aed9bc10dbb7971b3f6/?child=first)
 
 ## 网站
 
